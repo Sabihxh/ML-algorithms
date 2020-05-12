@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
-misc
+ex*
 .DS_Store
 venv
