@@ -8,4 +8,5 @@ Implementation of ML algorithms from scratch in python.
 #### Linear Regression from scratch in Python
 [Linear Regression](https://github.com/Sabihxh/ML-algorithms/blob/master/Linear%20Regression.ipynb)
 
-
+personal note:
+missed: multiclass log. reg.
